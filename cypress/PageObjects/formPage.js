@@ -1,6 +1,6 @@
 import { BasePage } from "./BasePage";
 
-export class PracticeFormPage extends BasePage {
+export class FormPage extends BasePage {
   
   static get url() {
     return "/";
